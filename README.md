@@ -69,10 +69,10 @@ public void onBackPressed() {
 ### ic_send_smile_levels.xml
 Create level-list xml to customize icons for smile/keyboard buttons
 ``` xml
-		<?xml version="1.0" encoding="utf-8"?>
-		<level-list xmlns:android="http://schemas.android.com/apk/res/android">
-		    <item android:drawable="@drawable/ic_msg_panel_kb" android:maxLevel="0"/>
-		    <item android:drawable="@drawable/doc_blue" android:maxLevel="1"/>
-		</level-list>
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_msg_panel_kb" android:maxLevel="0"/>
+    <item android:drawable="@drawable/doc_blue" android:maxLevel="1"/>
+</level-list>
 ```
 To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
