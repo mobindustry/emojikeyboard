@@ -65,7 +65,6 @@ protected void onCreate(Bundle savedInstanceState) {
 ### ic_send_smile_levels.xml
 Create level-list xml to customize icons for smile/keyboard buttons
 ``` xml
-
 		<?xml version="1.0" encoding="utf-8"?>
 		<level-list xmlns:android="http://schemas.android.com/apk/res/android">
 		    <item android:drawable="@drawable/ic_msg_panel_kb" android:maxLevel="0"/>
