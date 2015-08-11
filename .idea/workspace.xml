@@ -17,7 +17,245 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0f0da2b-18df-4e32-b6f2-4934244e9d8e" name="Default" comment="" />
+    <list default="true" id="a0f0da2b-18df-4e32-b6f2-4934244e9d8e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/stickers/850520710_5749_8234351146178128253.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/stickers/850520910_4443_15248000621523788765.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/stickers/850521066_6375_13935087941242441003.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/stickers/850521190_6040_16661448764149251960.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/doc_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/doc_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/doc_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/doc_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_a_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_a_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_a_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_a_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji2.0x_a_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_a_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_a_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_a_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_a_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/emoji/emoji3.0x_a_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/forward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/forward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/forward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/forward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_msg_panel_kb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_msg_panel_kb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_msg_panel_kb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_msg_panel_kb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_send.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_backspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_backspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_backspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_backspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_backspace_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_backspace_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_backspace_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_backspace_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_bell_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_bell_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_bell_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_bell_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_car_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_car_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_car_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_car_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_flower_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_flower_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_flower_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_flower_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_grid_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_grid_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_grid_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_grid_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_recent_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_recent_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_recent_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_recent_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_smile_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_smile_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_smile_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_smile_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_sticker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_sticker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_sticker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_sticker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-hdpi/ic_smiles_sticker_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-mdpi/ic_smiles_sticker_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xhdpi/ic_smiles_sticker_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable-xxhdpi/ic_smiles_sticker_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984016.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984018.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984019.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984020.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984021.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984022.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984023.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984024.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984025.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984026.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984027.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984028.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984029.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984031.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984032.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984033.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984035.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984036.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984037.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984039.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984040.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984041.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984044.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984045.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984046.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984047.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984048.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984049.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984050.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984051.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984052.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984053.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984054.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984055.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984056.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984057.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984058.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984059.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984060.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984061.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984062.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984063.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984064.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984065.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984066.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984067.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984068.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984069.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984070.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/assets/stickers/sticker1842540969984071.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/net/mobindustry/emoji_keyboard/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/androidTest/java/net/mobindustry/emojilib/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/DpCalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/Emoji.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/EmojiArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/EmojiKeyboardView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/EmojiPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/EmojiParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/EmojiPopup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/ImageLoaderHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/net/mobindustry/emoji_keyboard/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/ObservableLinearLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/RecentSmiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/Stickers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/bg_keyboard_tab.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emoji_keyboard.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout/emoji_panel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/emojilib.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout/grid_item_emoji.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout/grid_item_sticker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_smile_levels.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_send_smile_levels_default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_backspace_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_bell_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_car_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_flower_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_grid_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_recent_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_smiles_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/drawable/ic_smiles_stickers_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout/keyboard_page_emoji.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/pagerslidingtabstrip_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/universal_image_loader_1_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout/view_emoji_keyboard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emojilib/src/main/res/layout-sw600dp/view_emoji_keyboard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="emoji_keyboard.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,10 +295,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/net/mobindustry/emoji_keyboard/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59067357">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,6 +307,16 @@
                 <element signature="e#1401#1402#0" expanded="true" />
                 <element signature="e#1469#1470#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8493648">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2285,6 +2533,7 @@
         <option value="$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/emoji/Emoji.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/net/mobindustry/emoji_keyboard/MainActivity.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -2308,7 +2557,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2321,7 +2570,26 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji_keyboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji_keyboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji_keyboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="AndroidView">
@@ -2680,17 +2948,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/emojilib/src/main/java/net/mobindustry/emojilib/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3147,7 +3404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/mobindustry/emoji_keyboard/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59067357">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3156,6 +3413,14 @@
             <element signature="e#1401#1402#0" expanded="true" />
             <element signature="e#1469#1470#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8493648">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
