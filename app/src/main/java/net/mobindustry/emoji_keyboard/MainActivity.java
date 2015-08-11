@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
 
     @Override
     public void onBackPressed() {
-        if(panel.isEmojiAttached()) {
+        if (panel.isEmojiAttached()) {
             panel.dissmissEmojiPopup();
         } else {
             super.onBackPressed();

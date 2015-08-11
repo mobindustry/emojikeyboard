@@ -156,6 +156,7 @@ public class EmojiPanel {
 
     public interface EmojiClickCallback {
         void sendClicked(Spannable span);
+
         void stickerClicked(String path);
     }
 }

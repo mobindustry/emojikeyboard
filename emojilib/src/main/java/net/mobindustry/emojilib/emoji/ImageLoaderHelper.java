@@ -53,10 +53,6 @@ public class ImageLoaderHelper {
         return imageLoader;
     }
 
-    public static void displayImage(final String url, final ImageView imageView) {
-        imageLoader.displayImage(url, imageView, defaultOptionsFadeIn);
-    }
-
     public static void displayImageWithoutFadeIn(final String url, final ImageView imageView) {
         DisplayImageOptions options = new DisplayImageOptions.Builder()
                 .imageScaleType(ImageScaleType.IN_SAMPLE_INT)

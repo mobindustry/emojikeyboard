@@ -31,6 +31,7 @@ import java.util.Locale;
 import java.util.WeakHashMap;
 
 public class Emoji {
+
     private final HashMap<Long, DrawableInfo> rects = new HashMap<>();
     private final DpCalculator dpCalculator;
     private int drawImgSize, bigImgSize;
@@ -60,8 +61,6 @@ public class Emoji {
         }
         drawImgSize = this.dpCalculator.dp(20);
         bigImgSize = this.dpCalculator.dp(30);
-        //        }
-
         for (int j = 1; j < data.length; j++) {
             for (int i = 0; i < data[j].length; i++) {
                 Rect rect = new Rect((i % cols[j - 1]) * emojiFullSize, (i / cols[j - 1]) * emojiFullSize, (i % cols[j - 1] + 1) * emojiFullSize, (i / cols[j - 1] + 1) * emojiFullSize);
@@ -78,7 +77,7 @@ public class Emoji {
         loadEmoji(2);
         loadEmoji(3);
         boolean loaded = loadEmoji(4);
-        while(loaded) {
+        while (loaded) {
             callback.loaded();
             break;
         }
@@ -106,14 +105,12 @@ public class Emoji {
 
             BitmapFactory.Options opts = new BitmapFactory.Options();
             opts.inSampleSize = imageResize;
-
             InputStream is;
-            String imageName;
 
+            String imageName;
             imageName = String.format(Locale.US, "emoji%.01fx_a_%d.jpg", scale, page);
             is = ctx.getAssets().open("emoji/" + imageName);
             Bitmap alpha = BitmapFactory.decodeStream(is, null, opts);
-
             imageName = String.format(Locale.US, "emoji%.01fx_%d.jpg", scale, page);
             is = ctx.getAssets().open("emoji/" + imageName);
             Bitmap colors = BitmapFactory.decodeStream(is, null, opts);

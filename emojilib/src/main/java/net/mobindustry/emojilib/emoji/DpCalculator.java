@@ -1,6 +1,7 @@
 package net.mobindustry.emojilib.emoji;
 
 public class DpCalculator {
+
     public final float density;
 
     public DpCalculator(float density) {

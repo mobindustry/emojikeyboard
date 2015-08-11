@@ -1,19 +1,16 @@
 package net.mobindustry.emojilib.emoji;
 
 import android.content.Context;
-import android.util.Log;
-
-import net.mobindustry.emojilib.Utils;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Stickers {
+
     private List<String> ss = new ArrayList<>();
 
     public Stickers(Context context) {
@@ -24,7 +21,7 @@ public class Stickers {
             e.printStackTrace();
         }
         if (fileList != null) {
-            for (int i = 0; i < fileList.length; i++){
+            for (int i = 0; i < fileList.length; i++) {
                 File f = new File(context.getCacheDir() + File.separator + fileList[i]);
                 if (!f.exists()) try {
 
@@ -36,7 +33,9 @@ public class Stickers {
                     FileOutputStream fos = new FileOutputStream(f);
                     fos.write(buffer);
                     fos.close();
-                } catch (Exception e) { throw new RuntimeException(e); }
+                } catch (Exception e) {
+                    throw new RuntimeException(e);
+                }
                 ss.add(f.getAbsolutePath());
             }
         }

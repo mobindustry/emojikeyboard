@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 public class RecentSmiles {
+
     static final String PREF_RECENT_SMILES = "pref_recent_smiles";
     public static final String DIVIDER_ENTRY = ";";
     public static final String DIVIDER_TIME_CODE = ",";
@@ -50,6 +51,7 @@ public class RecentSmiles {
         }
         return ids;
     }
+
     public List<Entry> getSortedRecentEmoji() {
         ArrayList<Entry> res = new ArrayList<>(recent);
         Collections.sort(res, new Comparator<Entry>() {
@@ -98,7 +100,6 @@ public class RecentSmiles {
             }
 
             Entry entry = (Entry) o;
-
             return code == entry.code;
         }
 
