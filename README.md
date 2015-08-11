@@ -1,7 +1,7 @@
 # emoji_keyboard
 ### Emoji keyboard with input panel
-### Usage
-    ### your_activity.xml
+## Usage
+### your_activity.xml
     Create container for panel
 ``` xml
 	    <FrameLayout
@@ -12,7 +12,7 @@
         	>
 	    </FrameLayout>
 ```
-    ### YourActivity.java
+### YourActivity.java
 ``` java
 private FrameLayout root_frame_layout;
 private EmojiPanel panel;
@@ -60,8 +60,8 @@ protected void onCreate(Bundle savedInstanceState) {
         }
     }
 ```
-    ### ic_send_smile_levels.xml
-    Create level-list xml to customase icons for smile/keyboard buttons
+### ic_send_smile_levels.xml
+Create level-list xml to customase icons for smile/keyboard buttons
 ``` xml
 
 		<?xml version="1.0" encoding="utf-8"?>
