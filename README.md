@@ -1,17 +1,14 @@
 # emoji_keyboard
 
-# Emoji keyboard with input panel
+### Emoji keyboard with input panel
 
-# Usage
+### Usage
 
-    # your_activity.xml
+    ### your_activity.xml
 
     Create container for panel
 
 ``` xml
-
-
-
 	    <FrameLayout
 		android:id="@+id/root_frame_layout"
         	android:layout_width="match_parent"
@@ -20,7 +17,8 @@
         	>
 	    </FrameLayout>
 ```
-    # YourActivity.java
+
+    ### YourActivity.java
 
 ``` java
 
@@ -80,7 +78,7 @@ protected void onCreate(Bundle savedInstanceState) {
     }
 ```
 
-    # ic_send_smile_levels.xml
+    ### ic_send_smile_levels.xml
 
     Create level-list xml to customase icons for smile/keyboard buttons
 
