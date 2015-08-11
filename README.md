@@ -1,6 +1,6 @@
 # emoji_keyboard
 ### Emoji keyboard with input panel
-![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/Emoji%20Keyboard.png)
+![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
 ## Usage
 ### your_activity.xml
 Create container for panel
