@@ -1,12 +1,16 @@
 # emoji_keyboard
 
-Emoji keyboard with input panel
+# Emoji keyboard with input panel
 
-Usage
+# Usage
 
-	your_activity.xml
+    # your_activity.xml
 
-//Create container for panel
+    Create container for panel
+
+``` xml
+
+
 
 	    <FrameLayout
 		android:id="@+id/root_frame_layout"
@@ -15,10 +19,10 @@ Usage
         	android:layout_gravity="bottom"
         	>
 	    </FrameLayout>
+```
+    # YourActivity.java
 
-
-
-	YourActivity.java
+``` java
 
 private FrameLayout root_frame_layout;
 private EmojiPanel panel;
@@ -74,18 +78,19 @@ protected void onCreate(Bundle savedInstanceState) {
             super.onBackPressed();
         }
     }
+```
 
-	ic_send_smile_levels.xml
+    # ic_send_smile_levels.xml
 
-//Create level-list xml to customase icons for smile/keyboard buttons
+    Create level-list xml to customase icons for smile/keyboard buttons
+
+``` xml
 
 		<?xml version="1.0" encoding="utf-8"?>
 		<level-list xmlns:android="http://schemas.android.com/apk/res/android">
 		    <item android:drawable="@drawable/ic_msg_panel_kb" android:maxLevel="0"/>
 		    <item android:drawable="@drawable/doc_blue" android:maxLevel="1"/>
 		</level-list>
-
+```
 
 To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
-
-
