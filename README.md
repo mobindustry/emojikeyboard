@@ -63,7 +63,7 @@ protected void onCreate(Bundle savedInstanceState) {
     }
 ```
 ### ic_send_smile_levels.xml
-Create level-list xml to customase icons for smile/keyboard buttons
+Create level-list xml to customize icons for smile/keyboard buttons
 ``` xml
 
 		<?xml version="1.0" encoding="utf-8"?>
