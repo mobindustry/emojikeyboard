@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_keyboard">#ffffffff</color>
+    <color name="tab_divider">#ff0fff0e</color>
+    <color name="bg_tab_selected">#ff74c8ff</color>
+
+</resources>
