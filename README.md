@@ -2,7 +2,7 @@
 ### Emoji keyboard with input panel
 ## Usage
 ### your_activity.xml
-    Create container for panel
+Create container for panel
 ``` xml
 	    <FrameLayout
 		android:id="@+id/root_frame_layout"
