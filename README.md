@@ -25,7 +25,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
     mFrameLayout = (FrameLayout) findViewById(R.id.root_frame_layout);
 
-//Create new panel, set the container in which the panel will be placed and set ClickCallback to receive Spanned string with emoji and path to sticker image.
+    //Create new panel, set the container in which the panel will be placed and set ClickCallback to receive Spanned string with emoji and path to sticker image.
     mPanel = new EmojiPanel(this, mFrameLayout, new EmojiPanel.EmojiClickCallback() {
         @Override
         public void sendClicked(Spannable span) {
@@ -36,30 +36,35 @@ protected void onCreate(Bundle savedInstanceState) {
            //do something with received path to Sticker image
         }
     });
-//Set default icons for buttons
+
+    //Set default icons for buttons
     mPanel.iconsInit();
-//or if you need custom icons for buttons
+
+    //or if you need custom icons for buttons
     mPanel.iconsInit(R.drawable.ic_send_smile_levels, R.drawable.forward_blue);
 
-//initialise panel                                            
+    //initialise panel
     mPanel.init();
-//if you need parse Spannable from String with emoji
+
+    //if you need parse Spannable from String with emoji
     mParser = mPanel.getParser();
     Spannable parsedString = mParser.parse(textView.getText().toString());
 }
-    @Override
-    protected void onPause() {
-        super.onPause();
+
+@Override
+protected void onPause() {
+    super.onPause();
+    mPanel.dissmissEmojiPopup();
+}
+
+@Override
+public void onBackPressed() {
+    if(mPanel.isEmojiAttached()) {
         mPanel.dissmissEmojiPopup();
+    } else {
+        super.onBackPressed();
     }
-    @Override
-    public void onBackPressed() {
-        if(mPanel.isEmojiAttached()) {
-            mPanel.dissmissEmojiPopup();
-        } else {
-            super.onBackPressed();
-        }
-    }
+}
 ```
 ### ic_send_smile_levels.xml
 Create level-list xml to customize icons for smile/keyboard buttons
