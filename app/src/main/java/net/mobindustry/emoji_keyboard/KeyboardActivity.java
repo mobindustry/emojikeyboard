@@ -13,7 +13,6 @@ import android.widget.ImageView;
 import android.widget.PopupWindow;
 
 import net.mobindustry.emojilib.DpCalculator;
-import net.mobindustry.emojilib.EmojiParser;
 import net.mobindustry.emojilib.ObservableLinearLayout;
 import net.mobindustry.emojilib.Utils;
 import net.mobindustry.emojilib.emoji.Emoji;
@@ -24,11 +23,11 @@ import net.mobindustry.emojilib.emoji.ImageLoaderHelper;
 public class KeyboardActivity extends Activity {
 
     private Emoji emoji;
-    private EmojiParser parser;
     @Nullable
     private EmojiPopup emojiPopup;
     private Emoji.EmojiCallback callback;
     private View.OnClickListener listener;
+    private EditText emojiResultView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +37,7 @@ public class KeyboardActivity extends Activity {
         ImageLoaderHelper.initImageLoader(this);
 
         final Button openCloseKeyboard = (Button) findViewById(R.id.open_keyboard_button);
-        final EditText emojiResultView = (EditText) findViewById(R.id.emoji_result_view);
+        emojiResultView = (EditText) findViewById(R.id.emoji_result_view);
         final ImageView stickerResultView = (ImageView) findViewById(R.id.sticker_result_view);
 
         final ObservableLinearLayout layout = (ObservableLinearLayout) findViewById(R.id.observable_layout);
@@ -46,7 +45,6 @@ public class KeyboardActivity extends Activity {
         callback = new Emoji.EmojiCallback() {
             @Override
             public void loaded() {
-                parser = new EmojiParser(emoji);
                 openCloseKeyboard.setOnClickListener(listener);
             }
         };
@@ -55,7 +53,7 @@ public class KeyboardActivity extends Activity {
             @Override
             public void onClick(View v) {
                 if (emojiPopup != null) {
-                    emojiPopup.dismiss();
+                    dissmissEmojiPopup();
                 } else {
                     emojiPopup = EmojiPopup.create(KeyboardActivity.this, layout, new EmojiKeyboardView.CallBack() {
                         @Override
@@ -66,7 +64,7 @@ public class KeyboardActivity extends Activity {
                         @Override
                         public void emojiClicked(long code) {
                             String strEmoji = emoji.toString(code);
-                            Editable text = (Editable) emojiResultView.getText();
+                            Editable text = emojiResultView.getText();
                             text.append(emoji.replaceEmoji(strEmoji));
                         }
 
@@ -85,12 +83,44 @@ public class KeyboardActivity extends Activity {
                 }
             }
         };
-
         makeEmoji(callback);
     }
 
     private void makeEmoji(Emoji.EmojiCallback callback) {
         emoji = new Emoji(this, new DpCalculator(Utils.getDensity(this.getResources())));
         emoji.makeEmoji(callback);
+    }
+
+    public boolean dissmissEmojiPopup() {
+        if (emojiPopup == null) {
+            return false;
+        }
+        emojiPopup.dismiss();
+        emojiPopup = null;
+        Utils.hideKeyboard(emojiResultView);
+        return true;
+    }
+
+    public boolean isEmojiAttached() {
+        if (emojiPopup == null) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        dissmissEmojiPopup();
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (isEmojiAttached()) {
+            dissmissEmojiPopup();
+        } else {
+            super.onBackPressed();
+        }
     }
 }

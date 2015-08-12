@@ -27,8 +27,8 @@
 
         <ImageView
             android:id="@+id/sticker_result_view"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_width="@dimen/sticker_view_size"
+            android:layout_height="@dimen/sticker_view_size"
             android:scaleType="centerInside"
             />
     </LinearLayout>

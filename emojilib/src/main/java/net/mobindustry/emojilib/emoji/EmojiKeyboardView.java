@@ -17,7 +17,6 @@ import android.widget.LinearLayout;
 import com.astuetz.PagerSlidingTabStrip;
 
 import net.mobindustry.emojilib.DpCalculator;
-import net.mobindustry.emojilib.EmojiPanel;
 import net.mobindustry.emojilib.R;
 import net.mobindustry.emojilib.Utils;
 
@@ -36,7 +35,6 @@ public class EmojiKeyboardView extends LinearLayout {
     private CallBack callback;
     private Context context;
     private Stickers stickers;
-
 
     public EmojiKeyboardView(Context context, AttributeSet attrs) {
         super(context, attrs);

@@ -81,10 +81,10 @@ public class Emoji {
     }
 
     public void makeEmoji(EmojiCallback callback) {
-        loadEmoji(0);
-        loadEmoji(1);
-        loadEmoji(2);
-        loadEmoji(3);
+        loadEmojiAsync(0);
+        loadEmojiAsync(1);
+        loadEmojiAsync(2);
+        loadEmojiAsync(3);
         boolean loaded = loadEmoji(4);
         while (loaded) {
             callback.loaded();
@@ -203,8 +203,6 @@ public class Emoji {
             }
             destBitmap.setPixels(pixels, 0, width, 0, y, width, 1);
         }
-
-
         return destBitmap;
     }
 

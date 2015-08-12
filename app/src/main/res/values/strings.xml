@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="with_panel_button">Keyboard with panel</string>
+    <string name="on_activity_button">Keyboard on activity</string>
 </resources>
