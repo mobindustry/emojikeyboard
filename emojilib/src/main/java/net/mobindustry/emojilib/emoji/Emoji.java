@@ -23,6 +23,8 @@ import android.text.style.DynamicDrawableSpan;
 import android.text.style.ImageSpan;
 import android.util.Log;
 
+import net.mobindustry.emojilib.DpCalculator;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
@@ -32,6 +34,7 @@ import java.util.WeakHashMap;
 
 public class Emoji {
 
+    private static Emoji instance;
     private final HashMap<Long, DrawableInfo> rects = new HashMap<>();
     private final DpCalculator dpCalculator;
     private int drawImgSize, bigImgSize;
@@ -69,6 +72,12 @@ public class Emoji {
         }
         placeholderPaint = new Paint();
         placeholderPaint.setColor(0x00000000);
+
+        this.instance = this;
+    }
+
+    public static Emoji getInstance() {
+        return instance;
     }
 
     public void makeEmoji(EmojiCallback callback) {

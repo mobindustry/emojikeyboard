@@ -1,37 +1,18 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    >
+    android:orientation="vertical">
 
-    <LinearLayout
-        android:layout_width="match_parent"
+    <Button
+        android:id="@+id/keyboard_with_panel_button"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="bottom"
-        android:layout_marginBottom="100dp"
-        >
+        android:text="Keyboard with panel" />
 
-        <ImageView
-            android:id="@+id/send_sticker"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            />
-
-        <TextView
-            android:id="@+id/send_emoji"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/hello_world" />
-    </LinearLayout>
-
-
-    <!--Create container for panel-->
-    <FrameLayout
-        android:layout_width="match_parent"
+    <Button
+        android:id="@+id/keyboard_on_activity_button"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/root_frame_layout"
-        android:layout_gravity="bottom"
-        >
-    </FrameLayout>
+        android:text="Keyboard on activity" />
 
-</FrameLayout>
+</LinearLayout>

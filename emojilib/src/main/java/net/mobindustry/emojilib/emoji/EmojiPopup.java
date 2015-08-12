@@ -11,6 +11,8 @@ import android.view.ViewTreeObserver;
 import android.view.WindowManager;
 import android.widget.PopupWindow;
 
+import net.mobindustry.emojilib.DpCalculator;
+import net.mobindustry.emojilib.ObservableLinearLayout;
 import net.mobindustry.emojilib.R;
 import net.mobindustry.emojilib.Utils;
 

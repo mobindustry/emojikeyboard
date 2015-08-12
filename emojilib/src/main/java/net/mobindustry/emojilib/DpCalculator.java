@@ -1,4 +1,4 @@
-package net.mobindustry.emojilib.emoji;
+package net.mobindustry.emojilib;
 
 public class DpCalculator {
 

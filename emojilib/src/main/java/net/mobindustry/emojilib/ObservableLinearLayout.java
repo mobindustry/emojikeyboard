@@ -6,7 +6,7 @@
  * Copyright Nikolai Kudashov, 2013.
  */
 
-package net.mobindustry.emojilib.emoji;
+package net.mobindustry.emojilib;
 
 import android.content.Context;
 import android.graphics.Point;

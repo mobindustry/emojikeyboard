@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="top|center_horizontal">
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Open/close keyboard"
+            android:id="@+id/open_keyboard_button"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <EditText
+            android:id="@+id/emoji_result_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="300dp"
+            />
+
+        <ImageView
+            android:id="@+id/sticker_result_view"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:scaleType="centerInside"
+            />
+    </LinearLayout>
+
+    <net.mobindustry.emojilib.ObservableLinearLayout
+        android:id="@+id/observable_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal">
+    </net.mobindustry.emojilib.ObservableLinearLayout>
+
+</FrameLayout>

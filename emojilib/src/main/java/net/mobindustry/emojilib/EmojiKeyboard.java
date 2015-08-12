@@ -16,7 +16,7 @@ import net.mobindustry.emojilib.emoji.EmojiKeyboardView;
 import net.mobindustry.emojilib.emoji.EmojiPopup;
 import net.mobindustry.emojilib.emoji.ImageLoaderHelper;
 
-public class EmojiPanel {
+public class EmojiKeyboard {
 
     private EditText input;
     private ImageView smiles;
@@ -30,7 +30,7 @@ public class EmojiPanel {
     public static final int LEVEL_SMILE = 1;
     public static final int LEVEL_ARROW = 0;
 
-    private Emoji emoji;
+    private static Emoji emoji;
     private EmojiParser parser;
     @Nullable
     private EmojiPopup emojiPopup;
@@ -38,7 +38,7 @@ public class EmojiPanel {
     private Activity activity;
     private EmojiClickCallback clickCallback;
 
-    public EmojiPanel(Activity activity, FrameLayout root, EmojiClickCallback clickCallback) {
+    public EmojiKeyboard(Activity activity, FrameLayout root, EmojiClickCallback clickCallback) {
         this.activity = activity;
         this.root = root;
         this.clickCallback = clickCallback;
@@ -51,16 +51,6 @@ public class EmojiPanel {
         sendButton = (ImageView) panel.findViewById(R.id.attach);
     }
 
-    public void iconsInit(int leveledSmileIconResourceId, int sendButtonResourceId) {
-        smiles.setImageResource(leveledSmileIconResourceId);
-        sendButton.setImageResource(sendButtonResourceId);
-
-    }
-
-    public void iconsInit() {
-        smiles.setImageResource(R.drawable.ic_send_smile_levels_default);
-        sendButton.setImageResource(R.drawable.ic_send);
-    }
 
     public void init() {
         root.addView(panel);
@@ -120,6 +110,10 @@ public class EmojiPanel {
     private void makeEmoji(Emoji.EmojiCallback callback) {
         emoji = new Emoji(activity, new DpCalculator(Utils.getDensity(activity.getResources())));
         emoji.makeEmoji(callback);
+    }
+
+    public static Emoji getEmogi() {
+        return emoji;
     }
 
     public boolean dissmissEmojiPopup() {
