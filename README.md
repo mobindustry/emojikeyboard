@@ -1,6 +1,8 @@
 ### Emoji keyboard with input panel
 ![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
 ## Usage
+You may use the code in two ways - with and without panel.
+## Keyboard with panel
 ### your_activity.xml
 Create container for panel
 ``` xml
@@ -75,4 +77,7 @@ Create level-list xml to customize icons for smile/keyboard buttons
     <item android:drawable="@drawable/doc_blue" android:maxLevel="1"/>
 </level-list>
 ```
+## Keyboard without panel
+To use keyboard see KeyboardActivity code in sample project
+
 To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
