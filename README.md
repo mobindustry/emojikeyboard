@@ -1,4 +1,4 @@
-### Emoji keyboard with input panel
+### Emoji keyboard
 ![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
 ## Usage
 You may use the code in two ways - with and without panel.
