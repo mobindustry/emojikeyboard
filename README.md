@@ -83,5 +83,5 @@ To use keyboard see KeyboardActivity code in sample project
 ## Current stickers
 To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
 
-#### Note
+###### Note
 This code has been carefully excised out of the project at https://github.com/rovkinmax/tchalange
