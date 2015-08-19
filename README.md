@@ -84,7 +84,7 @@ Create level-list xml to customize icons for smile/keyboard buttons in drawable
 To use keyboard see KeyboardActivity.java code in sample project
 
 ## Current stickers
-To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
+To add your own stickers on the keyboard, you need to put them in a /assets/stickers/ directory
 
 ###### Note
 This code has been carefully excised out of the project at https://github.com/rovkinmax/tchalange
