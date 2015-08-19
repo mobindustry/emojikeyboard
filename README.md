@@ -3,7 +3,7 @@
 You may use the code in two ways - with and without panel.
 ## Keyboard with panel
 ### your_activity.xml
-Create container for panel
+Create container for panel in your activity xml file
 ``` xml
 <FrameLayout
     android:id="@+id/root_frame_layout"
