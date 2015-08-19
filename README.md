@@ -78,7 +78,7 @@ Create level-list xml to customize icons for smile/keyboard buttons
 </level-list>
 ```
 ## Keyboard without panel
-To use keyboard see KeyboardActivity code in sample project
+To use keyboard see KeyboardActivity.java code in sample project
 
 ## Current stickers
 To add your own stickers on the keyboard, you need to put them in a /assets/stickers/
