@@ -1,4 +1,7 @@
 ![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
+Telegram like implementation for emjoicons which appear as a popup over the soft keyboard
+### Requirements
+The library requires Android API Level 14+.
 ## Usage
 You may use the code in two ways - with and without panel.
 ## Keyboard with panel
@@ -68,7 +71,7 @@ public void onBackPressed() {
 }
 ```
 ### ic_send_smile_levels.xml
-Create level-list xml to customize icons for smile/keyboard buttons
+Create level-list xml to customize icons for smile/keyboard buttons in drawable
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
 <level-list xmlns:android="http://schemas.android.com/apk/res/android">
