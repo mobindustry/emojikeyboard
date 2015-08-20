@@ -16,7 +16,7 @@ The library requires Android API Level 14+.
 * Enjoy!
 
 ## Usage
-You may use the code in two ways - with and without panel.
+You may use the code in two ways - with panel and without it.
 ## Keyboard with panel
 ### your_activity.xml
 Create container for panel in your activity xml file
