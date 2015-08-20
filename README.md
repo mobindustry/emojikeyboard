@@ -1,5 +1,5 @@
 # EmojiKeyboard
-Telegram like implementation for emojicons that displays in the app as a pop-up over the soft keyboard
+Telegram like implementation for emoticons that displays in the app as a pop-up over the soft keyboard
 
 ![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
 ### Requirements
