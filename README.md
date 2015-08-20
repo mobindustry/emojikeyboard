@@ -1,5 +1,5 @@
 # EmojiKeyboard
-Telegram like implementation for emjoicons which appears as a popup over the soft keyboard
+Telegram like implementation for emojicons that displays in the app as a pop-up over the soft keyboard
 
 ![Screenshot](https://github.com/frontiertsymbal/emoji_keyboard/blob/master/EmojiKeyboard.png)
 ### Requirements
@@ -97,7 +97,7 @@ These actions enough to enable you to use the keyboard.
 To use keyboard see KeyboardActivity.java code in sample project
 
 ## Current stickers
-To add your own stickers on the keyboard, you need to put them in a /assets/stickers/ directory
+To add your own stickers on the keyboard you need to put them in a /assets/stickers/ directory
 
 ###### Note
 This code has been carefully excised out of the project at https://github.com/rovkinmax/tchalange
