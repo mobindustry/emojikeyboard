@@ -14,6 +14,7 @@ The library requires Android API Level 14+.
  }
 ```
 * Enjoy!
+
 ## Usage
 You may use the code in two ways - with and without panel.
 ## Keyboard with panel
