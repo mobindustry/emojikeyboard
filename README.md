@@ -5,15 +5,15 @@ Telegram like implementation for emjoicons which appear as a popup over the soft
 ### Requirements
 The library requires Android API Level 14+.
 ## Integration
-Download and unzip the project you've just downloaded
-Import the emojilib module in your Android Studio project (File > New > Import Module)
-Add module to build.gradle
+*Download and unzip the project you've just downloaded
+*Import the emojilib module in your Android Studio project (File > New > Import Module)
+*Add module to build.gradle
 ```groovy
  dependencies {
     compile project (':emojilib')
  }
 ```
-Enjoy!
+*Enjoy!
 ## Usage
 You may use the code in two ways - with and without panel.
 ## Keyboard with panel
