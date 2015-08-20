@@ -17,7 +17,7 @@ The library requires Android API Level 14+.
 
 ## Usage
 You may use the code in two ways - with input panel and without it.
-## Keyboard with panel
+## Keyboard with input panel
 ### your_activity.xml
 Create container for input panel in your activity xml file
 ``` xml
@@ -93,7 +93,7 @@ Create level-list xml to customize icons for smile/keyboard button in drawable
 </level-list>
 ```
 These actions enough to enable you to use the keyboard.
-## Keyboard without panel
+## Keyboard without input panel
 To use keyboard see KeyboardActivity.java code in sample project
 
 ## Current stickers
